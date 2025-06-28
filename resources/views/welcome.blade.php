@@ -13,8 +13,8 @@
         
         <nav>
             <ul>
-                <li><a href="{{ route('students.index') }}">View Students</a></li>
-                <li><a href="{{ route('students.create') }}">Add Student</a></li>
+                <li><a href="">View Students</a></li>
+                <li><a href="">Add Student</a></li>
             </ul>
         </nav>
         
